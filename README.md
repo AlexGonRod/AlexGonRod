@@ -2,5 +2,5 @@
 
 Hi. I’m Alex. I'm a javascript developer, new tech enthusiastic and a wannabe cyborg trying to be chip implanted.
 
-I work at SOPRA as a mid level sofware Engineer teaching bots how to become humans. For more information about me, check out [github](https://github.com/AlexGonRod) and follow me on [@deepinsd](https://twitter.com/deepinsd)
+I work at SOPRA as a mid level sofware Engineer. For more information about me, check out [github](https://github.com/AlexGonRod) and follow me on [@deepinsd](https://twitter.com/deepinsd)
 
